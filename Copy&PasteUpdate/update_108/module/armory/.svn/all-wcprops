@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/48/trunk/module/armory
+END
+show_char_inventory.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/trunk/module/armory/show_char_inventory.php
+END
+show_char_skill.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/module/armory/show_char_skill.php
+END
+show_character.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/48/trunk/module/armory/show_character.php
+END
+player_info_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/48/trunk/module/armory/player_info_generator.php
+END
+show_char_quest.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/module/armory/show_char_quest.php
+END
+show_char_equip.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/trunk/module/armory/show_char_equip.php
+END
+show_char_guild.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/trunk/module/armory/show_char_guild.php
+END
+show_char_3d.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32/trunk/module/armory/show_char_3d.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/trunk/module/armory/index.html
+END
+show_char_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/trunk/module/armory/show_char_data.php
+END
+show_char_talents.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/module/armory/show_char_talents.php
+END
+show_char_reputation.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/19/trunk/module/armory/show_char_reputation.php
+END
+show_char_achievements.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/19/trunk/module/armory/show_char_achievements.php
+END
