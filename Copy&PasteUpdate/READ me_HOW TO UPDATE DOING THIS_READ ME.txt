@@ -1,2 +1,0 @@
-ok this is easy  way to update  going to do it like this for awhile    take your update folder  number example # 106  open the folder you see a folder in there 
-with the name module  just drag and copy over into the cswowd folder make sure you always follow in number order starting with the main zip number 
